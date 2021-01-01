@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       appBar: AppBar(
-        title: Text("Galeri"),
+        title: Text("Joystick Galeri"),
       ),
     );
   }
