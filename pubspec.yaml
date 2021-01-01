@@ -4,7 +4,9 @@ description: Joystickli mini bir galeri [Flutter]
 publish_to: 'none' 
 version: 1.0.0+1
 author: yepyepunibel
-homepage: https://github.com/yepyepunibel/joystickli-flutter-galerisi
+homepage: https://github.com/yepyepunibel/
+repository: https://github.com/yepyepunibel/joystickli-flutter-galerisi
+documentation: https://github.com/yepyepunibel/joystickli-flutter-galerisi
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
